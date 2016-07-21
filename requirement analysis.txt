@@ -1,0 +1,25 @@
+Requirement Analysis
+
+1.Initially for a user to register a grievance,he must visit the concerned 
+page.
+
+2.To register a grievance the student must have an account on the page.So,
+there will be a signup page for the student.
+
+3.After signing up,the student need to login with his id and password.And after the completion of the problem,the student needs to logout.
+
+4.The necessary details that would be provided by the student are-
+reference id(given by college),username,age,contact number,grievance,the type of grievance-complaint,suggestion,query,email id.
+
+5.Then the student specifies the department under which he/she has a problem.So,list of various departments-housekeeping,accounts,academics,etc is required.
+
+6.After the grievance has been registered,it reaches to the Department Grievance Officer.
+
+7.Then it is viewed upon by the Department Grievance Officer and he assigns the problem to the concerned department.
+
+8.The problem is solved by the assigned officer of the corresponding department. The solution of the grievance is sent to the user and to the Department Grievance Officer.
+
+9.When the status of the grievance is closed,it is notified to the user.
+
+
+10.If the status is closed and the user is not satisfied,he/she can reopen the grievance.
